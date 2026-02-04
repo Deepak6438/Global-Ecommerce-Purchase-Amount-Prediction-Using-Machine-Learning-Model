@@ -19,7 +19,7 @@ In global e-commerce platforms, purchase behavior varies significantly across:
 
 This project addresses these challenges using machine learning-based predictive modeling.
 
-🎯 Project Objectives
+## 🎯 Project Objectives
 
 Predict purchase amounts with higher accuracy
 
@@ -31,7 +31,7 @@ Compare multiple regression models
 
 Translate model performance into business insights
 
-🧠 End-to-End Solution Architecture
+## 🧠 End-to-End Solution Architecture
 Raw Data
    ↓
 Data Cleaning & Preprocessing
@@ -46,7 +46,7 @@ Model Training & Evaluation
    ↓
 Business Insights
 
-🔍 Detailed Project Workflow
+## 🔍 Detailed Project Workflow
 1️⃣ Data Cleaning & Preprocessing
 
 Removed duplicate records
@@ -116,7 +116,7 @@ MAE (Mean Absolute Error)
 
 MAPE (Mean Absolute Percentage Error)
 
-📉 Result:
+## 📉 Result:
 Post log transformation:
 
 MAE reduced significantly
@@ -125,7 +125,7 @@ MAPE improved to a more business-acceptable range
 
 Ensemble and boosting models captured complex patterns better
 
-📊 Key Results & Insights
+## 📊 Key Results & Insights
 
 Log transformation had a greater impact than model complexity
 
@@ -135,7 +135,7 @@ Predictions aligned more closely with actual purchase behavior
 
 Reduced error improved real-world forecasting reliability
 
-🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 Programming & Libraries
 
 Python
@@ -158,7 +158,7 @@ Predictive Analytics
 
 Error Optimization
 
-📁 Repository Structure
+## 📁 Repository Structure
 ├── data/
 │   └── ecommerce_data.csv
 │
@@ -173,7 +173,7 @@ Error Optimization
 ├── requirements.txt
 └── README.md
 
-🚀 How to Run the Project
+## 🚀 How to Run the Project
 Step 1: Clone the Repository
 git clone https://github.com/your-username/global-ecommerce-purchase-prediction.git
 
@@ -184,7 +184,7 @@ Step 3: Run Notebooks
 
 Open Jupyter Notebook and execute notebooks in sequence for full workflow understanding.
 
-📈 Business Use Cases
+## 📈 Business Use Cases
 
 Revenue forecasting
 
@@ -196,7 +196,7 @@ Demand planning and inventory strategy
 
 Data-driven decision making
 
-🔮 Future Enhancements
+## 🔮 Future Enhancements
 
 Hyperparameter tuning using GridSearchCV
 
@@ -208,7 +208,7 @@ Real-time prediction API
 
 Dashboard integration using Power BI / Tableau
 
-📚 Key Learnings
+## 📚 Key Learnings
 
 Data preprocessing drives model success
 
@@ -218,7 +218,7 @@ Business-aligned metrics matter more than raw accuracy
 
 ML models must be evaluated from a business impact perspective
 
-👤 Author
+## 👤 Author
 
 Deepak Behera
 MBA – Business Analytics | PGDM – Finance
