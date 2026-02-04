@@ -8,22 +8,14 @@ The solution is designed to simulate real-world e-commerce analytics use cases s
 ## 🧩 Business Context
 
 In global e-commerce platforms, purchase behavior varies significantly across:
-
-Customers
-
-Locations
-
-Product categories
-
-Time periods
-
-Traditional forecasting approaches struggle due to:
-
-Highly right-skewed transaction data
-
-Mixed numerical and categorical features
-
-Non-linear relationships between variables
+* Customers
+* Locations
+* Product categories
+* Time periods
+* Traditional forecasting approaches struggle due to:
+* Highly right-skewed transaction data
+* Mixed numerical and categorical features
+* Non-linear relationships between variables
 
 This project addresses these challenges using machine learning-based predictive modeling.
 
