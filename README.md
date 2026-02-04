@@ -1,11 +1,11 @@
-🌍 Global E-Commerce Purchase Amount Prediction Using Machine Learning
-📌 Project Summary
+## 🌍 Global E-Commerce Purchase Amount Prediction Using Machine Learning
+#### 📌 Project Summary
 
 This project aims to predict customer purchase amounts using historical global e-commerce data. By applying advanced feature engineering, target transformation, and multiple regression models, the project delivers accurate revenue predictions and actionable business insights.
 
 The solution is designed to simulate real-world e-commerce analytics use cases such as demand forecasting, pricing strategy, and customer value estimation.
 
-🧩 Business Context
+## 🧩 Business Context
 
 In global e-commerce platforms, purchase behavior varies significantly across:
 
