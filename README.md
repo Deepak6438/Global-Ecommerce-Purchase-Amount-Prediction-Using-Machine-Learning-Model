@@ -63,18 +63,18 @@ This project addresses these challenges using machine learning-based predictive 
 
 3️⃣ Correlation Analysis
 
-Computed correlation between numerical variables
-Identified influential predictors
-Reduced redundant features
-Controlled multicollinearity
+* Computed correlation between numerical variables
+* Identified influential predictors
+* Reduced redundant features
+* Controlled multicollinearity
 
 📌 Benefit: Improved model interpretability and stability.
 
 4️⃣ Feature Engineering
 
-Feature Scaling applied to numerical variables
-One-Hot Encoding used for categorical variables
-Log Transformation applied to the dependent variable (Purchase Amount)
+* Feature Scaling applied to numerical variables
+* One-Hot Encoding used for categorical variables
+* Log Transformation applied to the dependent variable (Purchase Amount)
 
 📌 Key Breakthrough:
 Log transformation reduced skewness and variance, significantly improving prediction accuracy.
@@ -82,43 +82,45 @@ Log transformation reduced skewness and variance, significantly improving predic
 5️⃣ Machine Learning Models Used
 
 The following regression models were trained and evaluated:
-Linear Regression
-Decision Tree Regression
-Random Forest Regression
-Gradient Boosting Regression
-XGBoost Regression
-Each model was evaluated using business-aligned metrics.
+* Linear Regression
+* Decision Tree Regression
+* Random Forest Regression
+* Gradient Boosting Regression
+* XGBoost Regression
+* Each model was evaluated using business-aligned metrics.
 
 6️⃣ Model Evaluation Metrics
 
-MAE (Mean Absolute Error)
-MAPE (Mean Absolute Percentage Error)
+* MAE (Mean Absolute Error)
+* MAPE (Mean Absolute Percentage Error)
 
 ## 📉 Result:
-Post log transformation:
-MAE reduced significantly
-MAPE improved to a more business-acceptable range
-Ensemble and boosting models captured complex patterns better
+
+* Post log transformation:
+* MAE reduced significantly
+* MAPE improved to a more business-acceptable range
+* Ensemble and boosting models captured complex patterns better
 
 ## 📊 Key Results & Insights
 
-Log transformation had a greater impact than model complexity
-Ensemble models outperformed baseline regression
-Predictions aligned more closely with actual purchase behavior
-Reduced error improved real-world forecasting reliability
+* Log transformation had a greater impact than model complexity
+* Ensemble models outperformed baseline regression
+* Predictions aligned more closely with actual purchase behavior
+* Reduced error improved real-world forecasting reliability
 
 ## 🛠️ Tech Stack & Tools
-Programming & Libraries
-Python
-Pandas, NumPy
-Matplotlib, Seaborn
-Scikit-Learn
-XGBoost
-Techniques
-Regression Modeling
-Feature Engineering
-Predictive Analytics
-Error Optimization
+
+* Programming & Libraries
+* Python
+* Pandas, NumPy
+* Matplotlib, Seaborn
+* Scikit-Learn
+* XGBoost
+* Techniques
+* Regression Modeling
+* Feature Engineering
+* Predictive Analytics
+* Error Optimization
 
 ## 📁 Repository Structure
 ├── data/
