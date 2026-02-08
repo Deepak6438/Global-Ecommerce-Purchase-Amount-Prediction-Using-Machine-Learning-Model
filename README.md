@@ -21,15 +21,11 @@ This project addresses these challenges using machine learning-based predictive 
 
 ## 🎯 Project Objectives
 
-Predict purchase amounts with higher accuracy
-
-Reduce prediction error (MAE & MAPE)
-
-Handle skewness and variance in transaction values
-
-Compare multiple regression models
-
-Translate model performance into business insights
+* Predict purchase amounts with higher accuracy
+* Reduce prediction error (MAE & MAPE)
+* Handle skewness and variance in transaction values
+* Compare multiple regression models
+* Translate model performance into business insights
 
 ## 🧠 End-to-End Solution Architecture
 Raw Data
