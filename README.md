@@ -28,19 +28,19 @@ This project addresses these challenges using machine learning-based predictive 
 * Translate model performance into business insights
 
 ## 🧠 End-to-End Solution Architecture
-Raw Data
+* Raw Data
    ↓
-Data Cleaning & Preprocessing
+* Data Cleaning & Preprocessing
    ↓
-Exploratory Data Analysis (EDA)
+* Exploratory Data Analysis (EDA)
    ↓
-Correlation & Feature Selection
+* Correlation & Feature Selection
    ↓
-Feature Engineering
+* Feature Engineering
    ↓
-Model Training & Evaluation
+* Model Training & Evaluation
    ↓
-Business Insights
+* Business Insights
 
 ## 🔍 Detailed Project Workflow
 1️⃣ Data Cleaning & Preprocessing
