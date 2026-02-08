@@ -150,37 +150,26 @@ Open Jupyter Notebook and execute notebooks in sequence for full workflow unders
 
 ## 📈 Business Use Cases
 
-Revenue forecasting
-
-Customer lifetime value estimation
-
-Pricing and promotion optimization
-
-Demand planning and inventory strategy
-
-Data-driven decision making
+* Revenue forecasting
+* Customer lifetime value estimation
+* Pricing and promotion optimization
+* Demand planning and inventory strategy
+* Data-driven decision making
 
 ## 🔮 Future Enhancements
 
-Hyperparameter tuning using GridSearchCV
-
-SHAP values for explainability
-
-Model deployment using Flask / FastAPI
-
-Real-time prediction API
-
-Dashboard integration using Power BI / Tableau
+* Hyperparameter tuning using GridSearchCV
+* SHAP values for explainability
+* Model deployment using Flask / FastAPI
+* Real-time prediction API
+* Dashboard integration using Power BI / Tableau
 
 ## 📚 Key Learnings
 
-Data preprocessing drives model success
-
-Target transformation is critical for skewed financial data
-
-Business-aligned metrics matter more than raw accuracy
-
-ML models must be evaluated from a business impact perspective
+* Data preprocessing drives model success
+* Target transformation is critical for skewed financial data
+* Business-aligned metrics matter more than raw accuracy
+* ML models must be evaluated from a business impact perspective
 
 ## 👤 Author
 
