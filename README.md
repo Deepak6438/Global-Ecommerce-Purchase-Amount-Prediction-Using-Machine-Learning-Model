@@ -123,19 +123,19 @@ The following regression models were trained and evaluated:
 * Error Optimization
 
 ## 📁 Repository Structure
-├── data/
-│   └── ecommerce_data.csv
-│
-├── notebooks/
-│   ├── 01_EDA.ipynb
-│   ├── 02_Feature_Engineering.ipynb
-│   ├── 03_Model_Training.ipynb
-│
-├── src/
-│   └── model_pipeline.py
-│
-├── requirements.txt
-└── README.md
+* ├── data/
+* │   └── ecommerce_data.csv
+* │
+* ├── notebooks/
+* │   ├── 01_EDA.ipynb
+* │   ├── 02_Feature_Engineering.ipynb
+* │   ├── 03_Model_Training.ipynb
+* │
+* ├── src/
+* │   └── model_pipeline.py
+* │
+* ├── requirements.txt
+* └── README.md
 
 ## 🚀 How to Run the Project
 Step 1: Clone the Repository
@@ -145,7 +145,6 @@ Step 2: Install Dependencies
 pip install -r requirements.txt
 
 Step 3: Run Notebooks
-
 Open Jupyter Notebook and execute notebooks in sequence for full workflow understanding.
 
 ## 📈 Business Use Cases
@@ -173,8 +172,8 @@ Open Jupyter Notebook and execute notebooks in sequence for full workflow unders
 
 ## 👤 Author
 
-Deepak Behera
-MBA – Business Analytics | PGDM – Finance
+* Deepak Behera
+* MBA – Business Analytics | 
 
 Skills:
-SQL | Python | Machine Learning | Power BI | Statistical Analysis | Business Analytics
+* SQL | Python | Machine Learning | Power BI | Statistical Analysis | Business Analytics
